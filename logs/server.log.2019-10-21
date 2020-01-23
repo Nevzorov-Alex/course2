@@ -1,0 +1,82 @@
+2019-10-21 09:39:55,233 INFO server.py get message from  
+2019-10-21 09:39:55,236 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:39:55,237 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571639995.2312036, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:43:58,110 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:43:58,111 INFO server.py get message from  
+2019-10-21 09:43:58,111 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571640238.1094885, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:43:58,112 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:43:58,114 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:42,600 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:42,601 INFO server.py get message from  
+2019-10-21 09:47:42,602 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571640462.6008368, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:47:42,602 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:42,603 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:50,357 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:50,358 INFO server.py get message from  
+2019-10-21 09:47:50,359 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571640470.3572085, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:47:50,359 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:47:50,360 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:57:46,462 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:57:46,463 INFO server.py get message from  
+2019-10-21 09:57:46,464 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571641066.4611487, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:57:46,464 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:57:46,465 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:58:08,116 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:58:08,117 INFO server.py get message from  
+2019-10-21 09:58:08,117 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571641088.115964, 'user': {'account_name': 'Guest'}}
+2019-10-21 09:58:08,118 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 09:58:08,119 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:10,904 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:10,905 INFO server.py get message from  
+2019-10-21 12:18:10,905 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571649490.9045324, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:18:10,905 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:10,905 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:16,677 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:16,677 INFO server.py get message from  
+2019-10-21 12:18:16,677 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571649496.6771235, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:18:16,677 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:18:16,678 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:38:56,675 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:38:56,676 INFO server.py get message from  
+2019-10-21 12:38:56,676 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571650736.6755183, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:38:56,676 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:38:56,676 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:39:00,661 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:39:00,661 INFO server.py get message from  
+2019-10-21 12:39:00,661 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571650740.6611702, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:39:00,661 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:39:00,661 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:49,120 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:49,120 INFO server.py get message from  
+2019-10-21 12:41:49,120 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571650909.1207862, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:41:49,120 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:49,121 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:51,951 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:51,951 INFO server.py get message from  
+2019-10-21 12:41:51,951 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571650911.951497, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:41:51,952 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:41:51,952 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:49:04,347 INFO server.py get message from  
+2019-10-21 12:49:04,347 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651344.3461928, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:49:04,347 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:49:07,998 INFO server.py get message from  
+2019-10-21 12:49:07,998 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651347.9985037, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:49:07,998 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module}
+2019-10-21 12:51:46,925 INFO server.py get message from  
+2019-10-21 12:51:46,926 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651506.9254794, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:51:46,926 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module__}
+2019-10-21 12:51:49,858 INFO server.py get message from  
+2019-10-21 12:51:49,858 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651509.857309, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:51:49,858 INFO decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module__}
+2019-10-21 12:53:45,764 INFO server.py get message from  
+2019-10-21 12:53:45,764 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651625.7640746, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:53:45,764 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module__}
+2019-10-21 12:53:48,486 INFO server.py get message from  
+2019-10-21 12:53:48,486 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651628.4859614, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:53:48,486 DEBUG decos.py f was called function {func_to_log.__name__} with parameter {args},{kwargs}.f from module {func_to_log.__module__}
+2019-10-21 12:55:06,873 INFO server.py get message from  
+2019-10-21 12:55:06,874 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651706.8736923, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:55:06,874 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571651706.8736923, 'user': {'account_name': 'Guest'}},),{}. from module __main__
+2019-10-21 12:55:10,072 INFO server.py get message from  
+2019-10-21 12:55:10,072 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571651710.0720868, 'user': {'account_name': 'Guest'}}
+2019-10-21 12:55:10,072 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571651710.0720868, 'user': {'account_name': 'Guest'}},),{}. from module __main__

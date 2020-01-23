@@ -1,0 +1,122 @@
+2019-10-24 14:54:30,265 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 14:54:45,508 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 14:54:49,629 INFO server.py get message from  
+2019-10-24 14:57:58,220 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 14:57:58,316 INFO server.py get message from  
+2019-10-24 14:58:16,258 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 14:58:16,298 INFO server.py get message from  
+2019-10-24 15:08:34,462 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:10:07,134 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:10:42,902 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:10:42,979 INFO server.py get message from  
+2019-10-24 15:10:42,979 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10168)
+2019-10-24 15:10:43,048 INFO server.py get message from  
+2019-10-24 15:10:43,049 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10169)
+2019-10-24 15:10:43,152 INFO server.py get message from  
+2019-10-24 15:10:43,153 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10170)
+2019-10-24 15:10:43,264 INFO server.py get message from  
+2019-10-24 15:10:43,264 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10171)
+2019-10-24 15:10:43,329 INFO server.py get message from  
+2019-10-24 15:10:43,329 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10172)
+2019-10-24 15:10:43,396 INFO server.py get message from  
+2019-10-24 15:10:43,396 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10173)
+2019-10-24 15:10:43,434 INFO server.py get message from  
+2019-10-24 15:10:43,434 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10174)
+2019-10-24 15:16:21,384 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:31:28,246 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:34:02,838 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:34:02,927 INFO server.py get message from  
+2019-10-24 15:34:02,927 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10184)
+2019-10-24 15:34:02,975 INFO server.py get message from  
+2019-10-24 15:34:02,976 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10185)
+2019-10-24 15:34:03,166 INFO server.py get message from  
+2019-10-24 15:34:03,166 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10186)
+2019-10-24 15:34:03,250 INFO server.py get message from  
+2019-10-24 15:34:03,250 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10187)
+2019-10-24 15:34:03,323 INFO server.py get message from  
+2019-10-24 15:34:03,323 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10188)
+2019-10-24 15:34:03,356 INFO server.py get message from  
+2019-10-24 15:34:03,356 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10189)
+2019-10-24 15:34:03,391 INFO server.py get message from  
+2019-10-24 15:34:03,392 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10190)
+2019-10-24 15:38:58,975 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:40:58,902 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:43:29,113 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:43:50,673 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:43:50,697 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10191)
+2019-10-24 15:43:50,782 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10192)
+2019-10-24 15:43:50,783 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921030.6981428, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:50,784 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921030.6981428, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10191)>),{}. from module __main__
+2019-10-24 15:43:50,964 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10193)
+2019-10-24 15:43:50,964 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921030.7820966, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:50,965 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921030.7820966, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=676, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10192)>),{}. from module __main__
+2019-10-24 15:43:51,011 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10194)
+2019-10-24 15:43:51,012 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921030.9649868, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:51,012 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921030.9649868, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10193)>),{}. from module __main__
+2019-10-24 15:43:51,106 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10195)
+2019-10-24 15:43:51,106 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921031.01196, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:51,107 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921031.01196, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10194)>),{}. from module __main__
+2019-10-24 15:43:51,137 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10196)
+2019-10-24 15:43:51,137 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921031.106905, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:51,137 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921031.106905, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10195)>),{}. from module __main__
+2019-10-24 15:43:51,138 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921031.1378872, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:51,138 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921031.1378872, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=660, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10196)>),{}. from module __main__
+2019-10-24 15:43:51,177 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10197)
+2019-10-24 15:43:51,177 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921031.1778648, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:43:51,177 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921031.1778648, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10197)>),{}. from module __main__
+2019-10-24 15:44:55,337 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:44:55,403 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10202)
+2019-10-24 15:44:55,413 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10203)
+2019-10-24 15:44:55,414 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.4030416, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,415 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.4030416, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10202)>),{}. from module __main__
+2019-10-24 15:44:55,601 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10204)
+2019-10-24 15:44:55,602 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.4140346, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,602 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.4140346, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=744, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10203)>),{}. from module __main__
+2019-10-24 15:44:55,670 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10205)
+2019-10-24 15:44:55,671 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.6019278, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,671 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.6019278, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10204)>),{}. from module __main__
+2019-10-24 15:44:55,671 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.6708906, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,672 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.6708906, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=708, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10205)>),{}. from module __main__
+2019-10-24 15:44:55,751 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10206)
+2019-10-24 15:44:55,786 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10207)
+2019-10-24 15:44:55,786 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.7518392, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,786 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.7518392, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=756, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10206)>),{}. from module __main__
+2019-10-24 15:44:55,828 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10208)
+2019-10-24 15:44:55,828 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.7858217, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,828 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.7858217, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=760, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10207)>),{}. from module __main__
+2019-10-24 15:44:55,829 INFO server.py Parse message from client : {'action': 'presence', 'time': 1571921095.828796, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:44:55,829 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921095.828796, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=732, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10208)>),{}. from module __main__
+2019-10-24 15:46:32,152 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:51:36,944 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:51:36,944 INFO server.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-24 15:52:14,371 DEBUG decos.py  was called function arg_parser with parameter (),{}. from module __main__
+2019-10-24 15:52:14,371 INFO server.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2019-10-24 15:52:14,389 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10213)
+2019-10-24 15:52:14,487 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10214)
+2019-10-24 15:52:14,488 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.3899298, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,488 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.3899298, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=708, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10213)>),{}. from module __main__
+2019-10-24 15:52:14,698 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10215)
+2019-10-24 15:52:14,698 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.4878736, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,699 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.4878736, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10214)>),{}. from module __main__
+2019-10-24 15:52:14,731 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10216)
+2019-10-24 15:52:14,731 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.698751, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,732 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.698751, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10215)>),{}. from module __main__
+2019-10-24 15:52:14,782 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10217)
+2019-10-24 15:52:14,783 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.7317324, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,783 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.7317324, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10216)>),{}. from module __main__
+2019-10-24 15:52:14,864 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10218)
+2019-10-24 15:52:14,865 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.782705, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,865 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.782705, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10217)>),{}. from module __main__
+2019-10-24 15:52:14,900 INFO server.py Установлено соедение с ПК ('127.0.0.1', 10219)
+2019-10-24 15:52:14,900 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.864655, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:14,900 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.864655, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=700, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10218)>),{}. from module __main__
+2019-10-24 15:52:15,402 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1571921534.9006345, 'user': {'account_name': 'Guest'}}
+2019-10-24 15:52:15,402 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'presence', 'time': 1571921534.9006345, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=668, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10219)>),{}. from module __main__
+2019-10-24 15:52:22,412 DEBUG server.py Разбор сообщения от клиента : {'action': 'message', 'time': 1571921541.943771, 'account_name': 'Guest', 'mess_text': 'sad'}
+2019-10-24 15:52:22,412 DEBUG decos.py  was called function process_client_message with parameter ({'action': 'message', 'time': 1571921541.943771, 'account_name': 'Guest', 'mess_text': 'sad'}, [('Guest', 'sad')], <socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 10214)>),{}. from module __main__
+2019-10-24 15:52:25,418 INFO server.py Клиент ('127.0.0.1', 10214) отключился от сервера.
+2019-10-24 15:52:26,420 INFO server.py Клиент ('127.0.0.1', 10219) отключился от сервера.
+2019-10-24 15:52:26,921 INFO server.py Клиент ('127.0.0.1', 10218) отключился от сервера.
+2019-10-24 15:52:27,421 INFO server.py Клиент ('127.0.0.1', 10217) отключился от сервера.
+2019-10-24 15:52:27,923 INFO server.py Клиент ('127.0.0.1', 10216) отключился от сервера.
+2019-10-24 15:52:28,424 INFO server.py Клиент ('127.0.0.1', 10215) отключился от сервера.
